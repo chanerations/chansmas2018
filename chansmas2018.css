@@ -48,7 +48,7 @@ body {
 }
 
 #card img:nth-child(1) {
-    animation-delay: 1s;
+    animation-delay: 0s;
 }
 
 #card img:nth-child(2) {
